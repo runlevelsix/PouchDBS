@@ -218,3 +218,4 @@ pip-log.txt
 platforms/
 plugins/
 node_modules/
+www/components/
