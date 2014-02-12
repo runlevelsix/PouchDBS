@@ -1,6 +1,7 @@
 {
   "name": "PouchDBS",
   "version": "0.0.1",
-  "dependencies": {}
+  "dependencies": {
+    "semantic": "~0.12.4"
+  }
 }
-
